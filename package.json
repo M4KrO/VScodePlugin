@@ -1,8 +1,8 @@
 {
-  "name": "vscode-lebab",
-  "displayName": "Lebab",
-  "description": "Lebab transpiles your ES5 code to ES2015.",
-  "version": "2.4.0",
+  "name": "vscode-kolobok",
+  "displayName": "Kolobok",
+  "description": "Kolobok writes somthing somwhere",
+  "version": "1.0.0",
   "publisher": "M4KrO",
   "license": "MIT",
   "engines": {
